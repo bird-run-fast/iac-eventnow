@@ -1,9 +1,7 @@
 # eventnow
 
 ## 概要
-ポートフォリオの一環で、架空の webサイトを作成中です。
-まずは AWS 環境を IaC に起こしました。
-アプリロジックについては、別リポジトリで管理予定です。
+架空のWebSiteのIaCを構築しました
 
 ## インフラ構成図
 ![infra_arc](./infra/infra_arc.drawio.svg)
